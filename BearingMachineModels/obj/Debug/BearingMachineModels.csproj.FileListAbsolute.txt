@@ -59,3 +59,8 @@ C:\Users\TASNEEM\Downloads\[Students]_Template\BearingMachineModels\bin\Debug\Be
 C:\Users\TASNEEM\Downloads\[Students]_Template\BearingMachineModels\obj\Debug\BearingMachineModels.csproj.CoreCompileInputs.cache
 C:\Users\TASNEEM\Downloads\[Students]_Template\BearingMachineModels\obj\Debug\BearingMachineModels.dll
 C:\Users\TASNEEM\Downloads\[Students]_Template\BearingMachineModels\obj\Debug\BearingMachineModels.pdb
+F:\lectcures and labs fourth year\1st term\Modeling and Simulation\assignments\task-3\simulation-task-3\BearingMachineModels\bin\Debug\BearingMachineModels.dll
+F:\lectcures and labs fourth year\1st term\Modeling and Simulation\assignments\task-3\simulation-task-3\BearingMachineModels\bin\Debug\BearingMachineModels.pdb
+F:\lectcures and labs fourth year\1st term\Modeling and Simulation\assignments\task-3\simulation-task-3\BearingMachineModels\obj\Debug\BearingMachineModels.csprojResolveAssemblyReference.cache
+F:\lectcures and labs fourth year\1st term\Modeling and Simulation\assignments\task-3\simulation-task-3\BearingMachineModels\obj\Debug\BearingMachineModels.dll
+F:\lectcures and labs fourth year\1st term\Modeling and Simulation\assignments\task-3\simulation-task-3\BearingMachineModels\obj\Debug\BearingMachineModels.pdb

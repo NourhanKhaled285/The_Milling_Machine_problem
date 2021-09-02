@@ -65,7 +65,7 @@ namespace BearingMachineModels
 
         public void read_from_file()
         {
-            FileStream fs = new FileStream(@"C:\Users\TASNEEM\Downloads\[Students]_Template\BearingMachineSimulation\TestCases\TestCase2.txt", FileMode.Open);
+            FileStream fs = new FileStream(@"F:\lectcures and labs fourth year\1st term\Modeling and Simulation\assignments\task-3\simulation-task-3\BearingMachineSimulation\TestCases\TestCase2.txt", FileMode.Open);
             StreamReader sr = new StreamReader(fs);
             while (sr.Peek() != -1)
             {

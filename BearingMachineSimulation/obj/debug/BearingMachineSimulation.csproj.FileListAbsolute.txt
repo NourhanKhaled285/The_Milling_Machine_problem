@@ -147,3 +147,14 @@ C:\Users\TASNEEM\Downloads\[Students]_Template\BearingMachineSimulation\obj\Debu
 F:\lectcures and labs fourth year\1st term\Modeling and Simulation\assignments\task 3\[Students]_Template\BearingMachineSimulation\bin\Debug\BearingMachineSimulation.exe.config
 F:\lectcures and labs fourth year\1st term\Modeling and Simulation\assignments\task 3\[Students]_Template\BearingMachineSimulation\obj\Debug\BearingMachineSimulation.exe
 F:\lectcures and labs fourth year\1st term\Modeling and Simulation\assignments\task 3\[Students]_Template\BearingMachineSimulation\obj\Debug\BearingMachineSimulation.pdb
+F:\lectcures and labs fourth year\1st term\Modeling and Simulation\assignments\task-3\simulation-task-3\BearingMachineSimulation\bin\Debug\BearingMachineSimulation.exe.config
+F:\lectcures and labs fourth year\1st term\Modeling and Simulation\assignments\task-3\simulation-task-3\BearingMachineSimulation\obj\Debug\BearingMachineSimulation.exe
+F:\lectcures and labs fourth year\1st term\Modeling and Simulation\assignments\task-3\simulation-task-3\BearingMachineSimulation\obj\Debug\BearingMachineSimulation.pdb
+F:\lectcures and labs fourth year\1st term\Modeling and Simulation\assignments\task-3\simulation-task-3\BearingMachineSimulation\bin\Debug\BearingMachineSimulation.exe
+F:\lectcures and labs fourth year\1st term\Modeling and Simulation\assignments\task-3\simulation-task-3\BearingMachineSimulation\bin\Debug\BearingMachineSimulation.pdb
+F:\lectcures and labs fourth year\1st term\Modeling and Simulation\assignments\task-3\simulation-task-3\BearingMachineSimulation\bin\Debug\BearingMachineModels.dll
+F:\lectcures and labs fourth year\1st term\Modeling and Simulation\assignments\task-3\simulation-task-3\BearingMachineSimulation\bin\Debug\BearingMachineModels.pdb
+F:\lectcures and labs fourth year\1st term\Modeling and Simulation\assignments\task-3\simulation-task-3\BearingMachineSimulation\obj\Debug\BearingMachineSimulation.csprojResolveAssemblyReference.cache
+F:\lectcures and labs fourth year\1st term\Modeling and Simulation\assignments\task-3\simulation-task-3\BearingMachineSimulation\obj\Debug\BearingMachineSimulation.Form1.resources
+F:\lectcures and labs fourth year\1st term\Modeling and Simulation\assignments\task-3\simulation-task-3\BearingMachineSimulation\obj\Debug\BearingMachineSimulation.Properties.Resources.resources
+F:\lectcures and labs fourth year\1st term\Modeling and Simulation\assignments\task-3\simulation-task-3\BearingMachineSimulation\obj\Debug\BearingMachineSimulation.csproj.GenerateResource.Cache
